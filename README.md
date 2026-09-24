@@ -1,1 +1,1 @@
-# Python
+# Cyber cafe managnment system
